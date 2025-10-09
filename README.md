@@ -14,4 +14,6 @@ python3 -m pip install -r requirements.txt
 
 ## Task instructions
 
-Tasks are inside task.ipynb file. Make sure you submit with all cells run and with all output.
+Tasks: `task1.ipynb` and `task2.ipynb`
+
+Make sure you submit with all cells run and with all output.
